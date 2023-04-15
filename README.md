@@ -4,13 +4,29 @@ Control something from a flex sensor connected to a Raspberry Pi Pico W.
 
 ## Resources
 
+### Visual Studio Code
+
+* [Visual Studio Code on Raspberry Pi](https://code.visualstudio.com/docs/setup/raspberry-pi)
+
 ### Adafruit
 
 * [adafruit](https://www.adafruit.com/)
 * [Raspberry Pi Pico W - www.adafruit.com](https://www.adafruit.com/product/5526)
+* [Welcome To CircuitPython - learn.adafruit.com](https://learn.adafruit.com/welcome-to-circuitpython)
+
+### [`www.raspberrypi.com`](https://www.raspberrypi.com/)
+
+* [Operating system images - www.raspberrypi.com](https://www.raspberrypi.com/software/operating-systems/)
 * [Raspberry Pi Pico and Pico W - www.raspberrypi.com](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 * [RP2040 - www.raspberrypi.com](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html#welcome-to-rp2040)
-* [Welcome To CircuitPython - learn.adafruit.com](https://learn.adafruit.com/welcome-to-circuitpython)
+
+### PDFs
+
+* [Getting Started with the Raspberry Pi Pico - datasheets.raspberrypi.com](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf)
+* [Connecting to the internet with Raspberry Pi Pico W - datasheets.raspberrypi.com](https://datasheets.raspberrypi.com/picow/connecting-to-the-internet-with-pico-w.pdf)
+* [Raspberry Pi Pico C/C++ SDK - datasheets.raspberrypi.com](datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)
+* [pico-sdk - github.com](https://github.com/raspberrypi/pico-sdk)
+* [pico-examples - github.com](https://github.com/raspberrypi/pico-examples)
 
 ## Google's Bard Recommended IDE
 
